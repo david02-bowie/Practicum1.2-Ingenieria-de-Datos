@@ -1,0 +1,10 @@
+Año lectivo
+AMIE
+Nombre_Institución
+Zona
+Provincia
+Cantón
+Parroquia
+Sostenimiento
+Área
+Matricula_Total
