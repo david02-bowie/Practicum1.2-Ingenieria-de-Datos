@@ -1,0 +1,10 @@
+
+# Archivos innecesarios
+__pycache__/
+*.pyc
+.venv/
+.env
+*.zip
+
+# Archivos RPA pesados
+**/data/rpa_inbox/*.sql
